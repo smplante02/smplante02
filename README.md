@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a rising junior at Worcester Polytechnic Institiute studying Computer Science and Cyber Security. 
+I am a rising junior at Worcester Polytechnic Institiute studying Computer Science and Cyber Security. 
 
 
 - 🌱 I have internship experience in database management and identity/access management.
