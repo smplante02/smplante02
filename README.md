@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a rising junior at Worcester Polytechnic Institiute studying Computer Science and Cyber Security. 
+I am a senior at Worcester Polytechnic Institiute studying Computer Science and Cyber Security. 
 
 
 - 🌱 I have internship experience in database management and identity/access management. A lot of my Git work has been focused on basic networks, basic cyber projects, and various hackathon websites.
